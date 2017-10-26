@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Github3TIB", "D:\Ghozi Hasyim_3TIB\Github3TIB\", "{2904FDA1-7741-477E-963C-64C8CE7E5A3B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53556"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Ghozi Hasyim_3TIB\Github3TIB\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53556\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53556"
+		Release.AspNetCompiler.PhysicalPath = "D:\Ghozi Hasyim_3TIB\Github3TIB\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53556\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53556"
+		SlnRelativePath = "D:\Ghozi Hasyim_3TIB\Github3TIB\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2904FDA1-7741-477E-963C-64C8CE7E5A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2904FDA1-7741-477E-963C-64C8CE7E5A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
